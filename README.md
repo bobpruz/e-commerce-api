@@ -40,7 +40,7 @@ JavaScript, Node, NPM, express.js, sequalize
 
 ## Video Link
 
-<a href="https://drive.google.com/file/d/1OlCkUevXEUypdFscYoNugRH22xZS4pPk/view?usp=sharing">Link to Video</a>
+<a href="https://drive.google.com/file/d/13osWSG74H3SerMW6TrSGeEMBe1i08s8b/view?usp=sharing">Link to Video</a>
 
 ## Screenshot
 
